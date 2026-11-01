@@ -1,0 +1,19 @@
+# Python Virtual Environment
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+
+# Environment variables
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Output artifacts that are re-creatable
+outputs/logs/
+.system_generated/
