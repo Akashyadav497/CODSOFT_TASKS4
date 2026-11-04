@@ -1,4 +1,4 @@
-# 📊 CodSoft Data Science Internship - Task 4: Sales Prediction Using Python
+# 📊 Sales Prediction Using Python
 
 [![Python Version](https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
